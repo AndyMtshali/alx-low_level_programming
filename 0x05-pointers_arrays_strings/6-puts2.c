@@ -13,7 +13,6 @@ void puts2(char *str)
 
 	int longi = 0;
 	int t = o;
-
 	char *y str;
 	int o;
 
